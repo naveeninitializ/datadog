@@ -20,7 +20,7 @@ import (
 	"github.com/paketo-buildpacks/libpak/bard"
 	"github.com/sclevine/spec"
 
-	"github.com/paketo-buildpacks/datadog/datadog"
+	"github.com/initializ-buildpacks/datadog/datadog"
 )
 
 func testJavaAgent(t *testing.T, context spec.G, it spec.S) {

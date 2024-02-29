@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/datadog
+module github.com/initializ-buildpacks/datadog
 
 go 1.20
 

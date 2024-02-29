@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/paketo-buildpacks/datadog/helper"
+	"github.com/initializ-buildpacks/datadog/helper"
 	"github.com/paketo-buildpacks/libpak/sherpa"
 )
 

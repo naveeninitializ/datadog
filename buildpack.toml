@@ -16,10 +16,10 @@ api = "0.7"
 
 [buildpack]
   description = "A Cloud Native Buildpack that contributes and configures the Datadog Agent"
-  homepage = "https://github.com/paketo-buildpacks/datadog"
-  id = "paketo-buildpacks/datadog"
+  homepage = "https://github.com/initializ-buildpacks/datadog"
+  id = "initializ-buildpacks/datadog"
   keywords = ["java"]
-  name = "Paketo Buildpack for Datadog"
+  name = "Initializ Buildpack for Datadog"
   sbom-formats = ["application/vnd.syft+json", "application/vnd.cyclonedx+json"]
   version = "{{.version}}"
 

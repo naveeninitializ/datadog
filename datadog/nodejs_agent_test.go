@@ -23,7 +23,7 @@ import (
 	"github.com/sclevine/spec"
 	"github.com/stretchr/testify/mock"
 
-	"github.com/paketo-buildpacks/datadog/datadog"
+	"github.com/initializ-buildpacks/datadog/datadog"
 )
 
 func testNodeJSAgent(t *testing.T, context spec.G, it spec.S) {
